@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=200&section=header&text=Abdelhadi%20Benabou&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20OFPPT%20Student&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:3b82f6,100:00d4ff&height=220&section=header&text=Abdelhadi%20Benabou&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Building+real+products+from+scratch)](https://git.io/typing-svg)
 
 </div>
 
@@ -81,8 +85,14 @@ I'm a **Full Stack Web Developer** passionate about building clean, scalable app
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gigav21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigav21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigav21&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gigav21&theme=tokyonight" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gigav21&theme=tokyonight" height="160em" />
 
 </div>
 
