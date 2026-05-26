@@ -88,23 +88,18 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gigav21&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gigav21&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gigav21&theme=tokyonight" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gigav21&theme=tokyonight" height="160em" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gigav21&theme=tokyonight&hide_border=true&card_width=1000" width="100%" />
+<img src="https://streak-stats.demolab.com?user=gigav21&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
