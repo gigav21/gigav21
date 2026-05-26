@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:3b82f6,100:00d4ff&height=220&section=header&text=Abdelhadi%20Benabou&fontSize=55&fontColor=ffffff&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:3b82f6,100:00d4ff&height=220&section=header&text=Abdelhadi%20Benabou&fontSize=55&fontColor=ffffff&fontAlignY=45&v=2" />
 
 <br/>
 
