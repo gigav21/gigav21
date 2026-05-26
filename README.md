@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:3b82f6,100:00d4ff&height=220&section=header&text=Abdelhadi%20Benabou&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Building+real+products+from+scratch)](https://git.io/typing-svg)
-
 </div>
 
 ---
