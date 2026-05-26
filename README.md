@@ -10,16 +10,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Full Stack Web Developer** focused on building scalable, maintainable, and user-centered web applications. I enjoy working across both frontend and backend technologies while continuously improving my skills in software engineering and system design.
 
-- 💻 Focused on **Full Stack Web Development** — both frontend and backend  
-- 🚀 Passionate about building scalable and user-focused web applications  
-- 🔧 Continuously exploring new technologies, frameworks, and development workflows  
-- 🌐 Interested in cloud infrastructure, self-hosting, and DevOps  
-- 🧠 Into productivity systems and clean code practices  
-- 📍 Based in **Morocco 🇲🇦**
+- Focused on **Full Stack Web Development** — both frontend and backend  
+- Passionate about building scalable and user-focused web applications  
+- Continuously exploring new technologies, frameworks, and development workflows  
+- Interested in cloud infrastructure, self-hosting, and DevOps  
+- Into productivity systems and clean code practices  
+- Based in **Morocco 🇲🇦**
 
 ---
 
@@ -80,13 +80,13 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ GigaStone
+### GigaStone
 > A full-stack web platform built with a modern JavaScript stack, featuring a **Node.js/Express API**, a **Vite-powered frontend**, and **MongoDB** for scalable data management.  
 > Implemented secure authentication using **Google OAuth** with Passport.js and integrated **PayPal Sandbox** for payment processing. Focused on clean architecture, API security, and responsive user experience.
 
-### 🏗️ Rakops Platform — Internship Sprint
+### Rakops Platform — Internship Sprint
 > Collaborated in a multi-team development environment on a large-scale **Laravel monorepo** containing over 50 APIs.  
 > Led the development of APIs 41–50, including:
 > - Project management CRUD operations
