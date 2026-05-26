@@ -109,7 +109,7 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 ## 🚀 Featured Projects
 
-### 🪨 GigaStone
+### 🏗️ GigaStone
 > A full-stack web platform built with a modern JavaScript stack, featuring a **Node.js/Express API**, a **Vite-powered frontend**, and **MongoDB** for scalable data management.  
 > Implemented secure authentication using **Google OAuth** with Passport.js and integrated **PayPal Sandbox** for payment processing. Focused on clean architecture, API security, and responsive user experience.
 
@@ -128,6 +128,6 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6e40c9&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6e40c9&height=90&section=footer" />
 
 </div>
