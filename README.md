@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" />
+<h3 align="center">
+  <code style="color:#00D4FF;">Full Stack Web Developer</code>
+</h3>
 
 </div>
 
