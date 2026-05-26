@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Web Developer** passionate about building clean, scalable applications from the ground up. I enjoy working across the entire stack — from designing APIs to crafting responsive UIs — and I'm always learning new technologies along the way.
+I'm a **Full Stack Web Developer** focused on building scalable, maintainable, and user-centered web applications. I enjoy working across both frontend and backend technologies while continuously improving my skills in software engineering and system design.
 
 - 💻 Focused on **Full Stack Web Development** — both frontend and backend  
-- 🚀 I love turning ideas into real, working products  
-- 🔧 Always tinkering with new tools, frameworks, and dev workflows  
+- 🚀 Passionate about building scalable and user-focused web applications  
+- 🔧 Continuously exploring new technologies, frameworks, and development workflows  
 - 🌐 Interested in cloud infrastructure, self-hosting, and DevOps  
 - 🧠 Into productivity systems and clean code practices  
 - 📍 Based in **Morocco 🇲🇦**
@@ -80,6 +80,16 @@ I'm a **Full Stack Web Developer** passionate about building clean, scalable app
 
 ---
 
+## 📚 Currently Learning
+
+- Advanced Laravel Architecture
+- DevOps & CI/CD Workflows
+- Docker & Self-Hosting
+- Scalable API Design
+- System Design Fundamentals
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,10 +116,19 @@ I'm a **Full Stack Web Developer** passionate about building clean, scalable app
 ## 🚀 Featured Projects
 
 ### 🪨 GigaStone
-> A full-stack platform built with **Node.js/Express** backend, **Vite** frontend, **MongoDB**, **PayPal Sandbox**, and **Google OAuth** via Passport.js.
+> A full-stack web platform built with a modern JavaScript stack, featuring a **Node.js/Express API**, a **Vite-powered frontend**, and **MongoDB** for scalable data management.  
+> Implemented secure authentication using **Google OAuth** with Passport.js and integrated **PayPal Sandbox** for payment processing. Focused on clean architecture, API security, and responsive user experience.
 
-### 🏗️ Internship Sprint — Rakops Platform
-> Contributing to a 50-API Laravel monorepo with 5 teams. Responsible for APIs 41–50: Projects CRUD, Tasks pipeline (todo → in_progress → review → done), GitHub webhook automation, and Deployments history. Frontend: `Production.jsx` and `TeamE3.jsx` in a React/Next.js app.
+### 🏗️ Rakops Platform — Internship Sprint
+> Collaborated in a multi-team development environment on a large-scale **Laravel monorepo** containing over 50 APIs.  
+> Led the development of APIs 41–50, including:
+> - Project management CRUD operations
+> - Task workflow pipeline (`todo → in_progress → review → done`)
+> - GitHub webhook automation
+> - Deployment history tracking
+>
+> Also contributed to the frontend using **React/Next.js**, developing production-related interfaces such as `Production.jsx` and `TeamE3.jsx`.  
+> Focused on scalable backend architecture, API integration, and team-based development workflows.
 
 ---
 
