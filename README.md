@@ -4,9 +4,7 @@
 
 <br/>
 
-<h3 align="center">
-  <code style="color:#00D4FF;">Full Stack Web Developer</code>
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=9999999&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer&repeat=false)](https://git.io/typing-svg)
 
 </div>
 
