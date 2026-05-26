@@ -22,13 +22,13 @@ I'm a **2nd-year Full Stack Web Development student** at OFPPT (Digital Developm
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://github.com/AbdelhadiBenabou" target="_blank">
+  <a href="https://github.com/gigav21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="gmail:abdelhadibenabou2190@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
