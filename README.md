@@ -23,22 +23,6 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 ---
 
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://github.com/gigav21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gigav21" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -96,6 +80,22 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 >
 > Also contributed to the frontend using **React/Next.js**, developing production-related interfaces such as `Production.jsx` and `TeamE3.jsx`.  
 > Focused on scalable backend architecture, API integration, and team-based development workflows.
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://github.com/gigav21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gigav21" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
