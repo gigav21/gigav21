@@ -23,7 +23,7 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -83,7 +83,7 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="left">
   <a href="https://github.com/gigav21" target="_blank">
