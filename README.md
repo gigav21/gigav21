@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=9999999&pause=9999999&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer&repeat=false"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" />
 
 </div>
 
