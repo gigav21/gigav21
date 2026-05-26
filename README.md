@@ -96,11 +96,3 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6e40c9&height=120&section=footer" />
-
-</div>
