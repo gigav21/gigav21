@@ -85,7 +85,7 @@ I'm a **Full Stack Web Developer** focused on building scalable, maintainable, a
 ##   Socials
 
 <p align="left">
-  <a href="https://github.com/gigav21" target="_blank">
+  <a href="https://github.com/gigav21" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
